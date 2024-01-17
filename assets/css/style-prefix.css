@@ -2371,7 +2371,7 @@ footer {
   .product-minimal .showcase-container { min-width: 50%; }
 
   .product-featured .showcase-img {
-    max-width: 120px;
+    max-width: 150px;
     margin: auto;
   }
 
