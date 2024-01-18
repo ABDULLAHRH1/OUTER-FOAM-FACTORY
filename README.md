@@ -29,4 +29,4 @@
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/ABDULLAHRH1/HTML_CSS_JS_Template_Four.git
+   git clone https://github.com/ABDULLAHRH1/OUTER-FOAM-FACTORY.git
