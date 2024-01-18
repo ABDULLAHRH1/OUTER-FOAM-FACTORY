@@ -1,6 +1,8 @@
 <!-- Project Screenshot -->
 <p align="center">
-  <img src="images/web5.png" alt="Project Screenshot" style="border: 5px solid #333; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
+  <img src="OUTER-FOAM-FACTORY/assets
+/OUTER-FOAM-FACTORY.png
+" alt="Project Screenshot" style="border: 5px solid #333; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
 </p>
 
 <!-- Project Title -->
